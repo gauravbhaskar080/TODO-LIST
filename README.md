@@ -17,8 +17,9 @@
 9. Now, go to this link  :
 Open [http://localhost:3000](http://localhost:3000) to view frontend in your browser.
 
-10. Deployed Project Link :
+10. Manual Deployed Project Link :
     Manual Deploy : Open [https://gauravb-todo-app.netlify.app/](https://gauravb-todo-app.netlify.app/) to view deployed version of the application(fully-working).
-    Automatically Deploy : Open [https://gb-todo.vercel.app/](https://gb-todo.vercel.app/) to view deployed version of the application(fully-working).
+
+11. Automatically Deployed Project Link : Open [https://gb-todo.vercel.app/](https://gb-todo.vercel.app/) to view deployed version of the application(fully-working).
 
 
